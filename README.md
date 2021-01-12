@@ -3,12 +3,11 @@
 
 ![](https://66.media.tumblr.com/70cd59c666abdc6ae0e12a5fcbbfbe96/tumblr_nti3ongAp31uev087o2_400.gif)
 
-### Create a react app that displays all the student names, where the following happens:
-___
+#### Create a react app that displays all the student names, where the following happens:
 
-### Step 1: Create a react app using the command `npm create-react-app react-state-hw`
+#### Step 1: Create a react app using the command `npm create-react-app react-state-hw`
 
-### Step 2: Start implementing the following functionalities  
+#### Step 2: Start implementing the following functionalities: 
 
 ## Functionalities  
 
