@@ -57,9 +57,11 @@ ____
 in your newly created component , wrap the element with the following div tags 
 
 ```
- <div className="container">
-        <div className="card">
-          <li>
-code goes here
-</li>
+  <>
+    <div className="container">
+      <div className="card">
+      {allStudents}
+      </div>
+    </div>
+    </>
 ```
