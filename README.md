@@ -5,29 +5,41 @@
 
 ### Create a react app that displays all the student names, where the following happens:
 ___
+
+### Step 1: Create a react app using the command `npm create-react-app react-state-hw`
+
+### Step 2: Start implementing the following functionalities  
+
+## Functionalities  
+
+*for your intial state use the following image :
+(https://cdn0.iconfinder.com/data/icons/characters-2-2-outlined/227/hulk-superhero-marvel-character-avatar-smileface-profile-512.png)*
+
 ### 1.
 
    #### If you click on a name:
    - it turns **red**.
-   - The following image is displayed (http://getdrawings.com/free-icon-bw/hulk-icon-21.png)
+   - The following image is displayed (https://i.pinimg.com/736x/7c/ac/cb/7caccbf5c21d6a9735491c3f7d26837b.jpg)
    - The message `I am the mighty _student_name, How dare you touch me!!?` is displayed under it. 
+   - `Hint: use onClick event ` 
    
 ___
 ### 2.
 
    #### If you right click on a name:
    - it turns **blue**. 
-   - The following image is displayed (https://cdn11.bigcommerce.com/s-sq9zkarfah/images/stencil/350x350/products/117228/204948/Hulk-379-Decal-Sticker__73044.1511165171.jpg?c=2)
+   - The following image is displayed (https://d6ce0no7ktiq.cloudfront.net/images/stickers/485t.png)
    - The message `Stop. Poking. Around!!` is displayed under it. 
-
+   - `Hint: use onDoubleClick event ` 
 ___
 
 ### 3.
 
   #### If you double click on a name:
   - it turns **green**.
-  - The following image is displayed (https://cdn11.bigcommerce.com/s-sq9zkarfah/images/stencil/1280x1280/products/85440/182141/Hulk-Fist-Decal-Sticker__21739.1511149680.jpg?c=2?imbypass=on)
+  - The following image is displayed (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo5citERSP4DKv8Euz1BDWffU9Bi_HFqyYg&usqp=CAU)
   - The message `STOP IT!!!`  is displayed under it.
+  - `Hint: use onContextMenu event ` 
    
 ____
 
@@ -38,8 +50,7 @@ ____
 
 ____
 
-*for your intial state use the following image :
-(https://cdn0.iconfinder.com/data/icons/characters-2-2-outlined/227/hulk-superhero-marvel-character-avatar-smileface-profile-512.png)*
+
 
 
 ***note*** The css file and the student names have been created for you ! 
