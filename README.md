@@ -30,7 +30,7 @@ ___
    - it turns **blue**. 
    - The following image is displayed (https://d6ce0no7ktiq.cloudfront.net/images/stickers/485t.png)
    - The message `Stop. Poking. Around!!` is displayed under it. 
-   - `Hint: use onDoubleClick event ` 
+   - `Hint: use onContextMenu event ` 
 ___
 
 ### 3.
@@ -39,7 +39,7 @@ ___
   - it turns **green**.
   - The following image is displayed (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo5citERSP4DKv8Euz1BDWffU9Bi_HFqyYg&usqp=CAU)
   - The message `STOP IT!!!`  is displayed under it.
-  - `Hint: use onContextMenu event ` 
+  - `Hint: use onDoubleClick event ` 
    
 ____
 
